@@ -6,3 +6,8 @@ colors
 vibrant 
 Dark mode
 Video calls
+
+
+payment options 
+send money
+receive money
