@@ -4,3 +4,5 @@ Emojii
 Typing option 
 colors 
 vibrant 
+Dark mode
+Video calls
